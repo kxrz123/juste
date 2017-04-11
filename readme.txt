@@ -1,25 +1,5 @@
 目录
 
-job-
-    home 主页
-    list 列表页
-    detail 详情页
-    login 登录
-    signup 注册
-
-property-list 房地产列表页
-property-details 房地产详情页
-
-
-blog 新人故事列表页
-blog-details 新人故事详情页
-
-
-seller-profile.html 服务商展示页
-
-account-home.html 用户中心页
-
------------------------------------
 just-
     home 主页
     list 列表页
@@ -41,29 +21,3 @@ just-
     contact 联系我们
     about-us 关于我们
     terms-conditions  条款和条件
-
-
-language:
-
-场地 venues
-
-新人故事 blogs
-
-常见问题 faq
-
-关于我们 about us
-
-联系我们 connect us
-
-评论 recomments
-
-
-
-国家-城市-区域-酒店
-086-028-004-0000001
-1.
-
-086-028-004：
-1.
-2.
-3.
